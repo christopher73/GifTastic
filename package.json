@@ -1,0 +1,24 @@
+{
+  "name": "GifTastic",
+  "version": "1.0.0",
+  "description": "GifTastic project",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopher73/GifTastic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christopher73/GifTastic/issues"
+  },
+  "homepage": "https://github.com/christopher73/GifTastic#readme"
+}

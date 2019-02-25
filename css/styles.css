@@ -1,0 +1,23 @@
+.btn-primary {
+  border-style: solid;
+  border-color: rgb(16, 9, 94);
+  background-color: rgb(84, 228, 238);
+  color: rgb(16, 9, 94);
+}
+body {
+  background-image: url("../assests/background.jpg");
+  background-size: 100% 100% no-repeat;
+}
+h1 {
+  color: white;
+  padding: 13px;
+}
+.gif {
+  border-style: solid;
+  margin: 5px;
+  border-color: rgb(16, 9, 94);
+}
+.rate {
+  text-align: center;
+  color: rgb(187, 94, 94);
+}
